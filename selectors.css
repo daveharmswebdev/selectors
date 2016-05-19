@@ -6,3 +6,15 @@ header ul li {
 	display: inline-block;
 	margin: 0 10px;
 }
+
+.disabled {
+	color: grey;
+}
+
+a .disabled {
+	color: purple;
+}
+
+.active {
+	color: yellow;
+}
