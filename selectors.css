@@ -1,0 +1,8 @@
+header {
+	border: 1px red solid;
+}
+
+header ul li {
+	display: inline-block;
+	margin: 0 10px;
+}
